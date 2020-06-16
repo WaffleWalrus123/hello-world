@@ -1,0 +1,23 @@
+<html>
+  
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+    
+    <h1>Project Showcase</h1>
+    
+    <h2> Scratch Project</h2>
+  <p> <a href="https://scratch.mit.edu/projects/396606740/editor">The unfinished find the person Scratch progect</a> This progect was the first thing we did in code club we all didn't finish it.</p>  
+ 
+  <h3> Trinket Projects</h3>
+
+  <p> <a href= "https://trinket.io/html/8083cfebb3"> The_unfinished_comic_that_I_am_finishing.com</a> This is one of my favourite progects; we did it over 2 weeks, but I changed it on the second time we where working on it so it is still a work in progress.</p>  
+
+  <p> </p>
+
+
+  </body>
+  
+</html>
